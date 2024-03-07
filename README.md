@@ -41,6 +41,8 @@
 | 날짜 | 문제 | GonoBae |
 | :--------------------------------------- | :---------------------------------------: | :---------------------------: |
 |2024.03.07| [거스름돈](https://www.acmicpc.net/problem/5585) | [:heavy_check_mark:](https://github.com/GonoBae/CTS/blob/main/2403/240307.cpp)
+|2024.03.11| [동전 0](https://www.acmicpc.net/problem/11047) | :heavy_multiplication_x:
+
 
 </div>
 </details>
