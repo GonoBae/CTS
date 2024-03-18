@@ -43,8 +43,8 @@
 |2024.03.07| [거스름돈](https://www.acmicpc.net/problem/5585) | [:heavy_check_mark:](https://github.com/GonoBae/CTS/blob/main/2403/240307.cpp) |
 |2024.03.11| [동전 0](https://www.acmicpc.net/problem/11047) |  [:heavy_check_mark:](https://github.com/GonoBae/CTS/blob/main/2403/240312.cpp) |
 |2024.03.14| [박 터뜨리기](https://www.acmicpc.net/problem/19939) |  [:pencil:](https://github.com/GonoBae/CTS/blob/main/2403/240314.cpp) |
-|2024.03.18| [스택](https://www.acmicpc.net/problem/10828) |  :heavy_multiplication_x: |
-|2024.03.18| [큐](https://www.acmicpc.net/problem/10845) |  :heavy_multiplication_x: |
+|2024.03.18| [스택](https://www.acmicpc.net/problem/10828) |  [:heavy_check_mark:](https://github.com/GonoBae/CTS/blob/main/2403/240318.cpp) |
+|2024.03.21| [큐](https://www.acmicpc.net/problem/10845) |  :heavy_multiplication_x: |
 
 </div>
 </details>
